@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+*.egg-info/
+*.log
+
+# Environments
+.venv/
+venv/
+ENV/
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Data & artifacts (regenerate locally)
+logs/
+outputs/
+outputs/**
+recordings/
+
+# Checkpoints
+*.ckpt
